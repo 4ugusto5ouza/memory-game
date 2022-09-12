@@ -1,0 +1,22 @@
+:root {
+  --color-primary: aliceblue;
+  --color-secondary: lightpink;
+  --color-text-light: azure;
+  --color-text-dark: #444444;
+  --variable-max-width: 640px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.6rem;
+}

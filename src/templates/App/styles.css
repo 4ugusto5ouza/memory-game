@@ -1,0 +1,5 @@
+.App {
+  max-width: var(--variable-max-width);
+  min-width: 650px;
+  margin: 0 auto;
+}
