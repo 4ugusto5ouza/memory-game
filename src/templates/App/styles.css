@@ -3,3 +3,7 @@
   min-width: 650px;
   margin: 0 auto;
 }
+
+.text {
+  padding: 2rem;
+}
